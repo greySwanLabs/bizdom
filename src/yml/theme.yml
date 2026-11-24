@@ -1,5 +1,6 @@
-themeColor: '#ff0a16'
-primaryDark: '#141414'
+# TheBizdom 2026 revival palette: "ink & saffron"
+themeColor: '#e8823a'
+primaryDark: '#191510'
 accentDark: '#ffffff'
-lightGray: '#f2f2f2'
-texts: '#333333'
+lightGray: '#f4f1ec'
+texts: '#33302a'
